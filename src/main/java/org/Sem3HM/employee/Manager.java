@@ -1,6 +1,5 @@
 package org.Sem3HM.employee;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import org.Sem3HM.impl.SalaryRaiserIMPL;
